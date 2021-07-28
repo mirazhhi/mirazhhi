@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Software Engineer and Mentor!
 
-- 🔭 I’m currently working on (Paybox)[https://github.com/PayBox]
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning and improve Gloang
 - 🚀 2021 Goals: become an expert in international payment system
 - ⚡ Fun fact: I love to shooting :camera: and walking :walking:
