@@ -12,13 +12,6 @@
 ### Spotify Playing 🎧
 [<img src="https://mirazhhi.vercel.app/api/spotify" alt="Miras's Spotify Playing" width="350" />][spotify]
 
-### Connect with me:
-
-[<img align="left" alt="mirazhhi.kz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mirazhhi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mirazhhi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-<br />
 <br />
 
 ---
@@ -28,6 +21,12 @@
   <img align="left" alt="mrchenliang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mirazhhi&show_icons=true&hide_border=true" />
 
 </details>
+
+### Connect with me:
+
+[<img align="left" alt="mirazhhi.kz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mirazhhi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mirazhhi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 [website]: https://mirazhhi.github.io/
 [instagram]: https://instagram.com/mirazhhi
