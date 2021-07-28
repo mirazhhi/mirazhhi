@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to shooting :camera: and walking :walking:
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing.mrchenliang.vercel.app/api/spotify" alt="Chen's Spotify Playing" width="350" />](https://open.spotify.com/user/12168690942)
+[<img src="https://mirazhhi.vercel.app/api/spotify" alt="Miras's Spotify Playing" width="350" />][spotify]
 
 ### Connect with me:
 
@@ -28,4 +28,4 @@
 
 [website]: https://mirazhhi.github.io/
 [instagram]: https://instagram.com/mirazhhi
-[spotify]: https://open.spotify.com/user/12168690942
+[spotify]: https://open.spotify.com/user/mhiggster
