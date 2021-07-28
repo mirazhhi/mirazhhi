@@ -12,8 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="chenliang.ca" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mr_chenliang | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mirazhhi.kz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mirazhhi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mirazhhi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 <br />
@@ -28,4 +29,5 @@
 
 [website]: https://mirazhhi.github.io/
 [instagram]: https://instagram.com/mirazhhi
+[telegram]: https://t.me/Mirazhhi
 [spotify]: https://open.spotify.com/user/mhiggster
