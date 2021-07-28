@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there, I'm [Miras][website] 👋
 
-<!--
-**mirazhhi/mirazhhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full Stack Software Engineer and Mentor!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Paybox
+- 🌱 I’m currently learning and improve Gloang
+- 🚀 2021 Goals: become an expert in international payment system
+- ⚡ Fun fact: I love to shooting :camera: and walking :walking:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Spotify Playing 🎧
+[<img src="https://spotify-now-playing.mrchenliang.vercel.app/api/spotify" alt="Chen's Spotify Playing" width="350" />](https://open.spotify.com/user/12168690942)
+
+### Connect with me:
+
+[<img align="left" alt="chenliang.ca" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mr_chenliang | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
+
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="mrchenliang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrchenliang&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://mirazhhi.github.io/
+[instagram]: https://instagram.com/mirazhhi
+[spotify]: https://open.spotify.com/user/12168690942
