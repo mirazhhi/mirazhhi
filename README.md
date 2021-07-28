@@ -7,6 +7,9 @@
 - 🚀 2021 Goals: become an expert in international payment system
 - ⚡ Fun fact: I love to shooting :camera: and walking :walking:
 
+<br />
+<br />
+
 ### Spotify Playing 🎧
 [<img src="https://mirazhhi.vercel.app/api/spotify" alt="Miras's Spotify Playing" width="350" />][spotify]
 
