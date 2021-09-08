@@ -3,9 +3,8 @@
 ## I'm a Full Stack Software Engineer and Mentor!
 
 - 🔭 I’m currently working on [Paybox](https://github.com/PayBox)
-- 🌱 I’m currently learning and improve [Gloang](https://golang.org/)
 - 🚀 2021 Goals: become an expert in international payment system
-- ⚡ Fun fact: LOL
+- ⚡ Fun fact: drink cold tea and coffee 
 
 <br />
 
