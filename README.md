@@ -3,7 +3,7 @@
 ## I'm a Full Stack Software Engineer and Mentor!
 
 - 🔭 I’m currently working at a [Paybox](https://github.com/PayBox)
-- 🚀 2021 Goals: A programmer has no goal, only path, and programmer’s path is code
+- 🚀 2022 Goals: A programmer has no goal, only path, and programmer’s path is code
 - ⚡ Fun fact: I hate antiseptics
 
 <br />
